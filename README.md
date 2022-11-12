@@ -1,4 +1,4 @@
-<h1 align="center">♻️ NK-BOT-MD ♻️</h1>
+<h1 align="center">♻️ BLACK_BOT ♻️</h1>
 <br>
 <div align="center">
 
@@ -10,7 +10,7 @@
 <a href="https://tinyurl.com/Onichan7w7r"><img title="WhatsApp-Bot-MD" src="https://img.shields.io/badge/-WHATSAPP--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://tinyurl.com/2p9kb7yd"><img title="Autor" src="https://img.shields.io/badge/Autor-Matt_M-orange?style=for-the-badge&logo=github"></a>
+<a href="https://tinyurl.com/2p9kb7yd"><img title="Autor" src="https://img.shields.io/badge/Autor-SNT-orange?style=for-the-badge&logo=github"></a>
 </p>
 </details>
 </p>
