@@ -15,13 +15,13 @@ const dPkg = require(join(__dirname, './package.json'))
 //
 global.MultiNK = es; //Lenguaje nativo
 global.Propietario = dPkg.author.name
-global.OwnerNum = '51995386439'
-global.PaisPrefix = '51'
+global.OwnerNum = '595983186566'
+global.PaisPrefix = '595'
 global.Prefijo = '.'
-global.MyApiKey = 'nekosmic' //zzz
-global.NombreDelBot = 'NK-BOT' //vMD
+global.MyApiKey = 'Black' //zzz
+global.NombreDelBot = 'Black_Bit' //vMD
 global.BotVersion = dPkg.version
-global.TusRedesSociales = "[ > ] Canal de Youtube:\n- https://youtube.com/channel/UC_Pp8pT9vbT15k5_-i6oseA\n\n[ f ] Página de Facebook:\n- https://fb.watch/b7pj-i5ejP/\n\n[Ꮄ] Tiktok:\n- https://vm.tiktok.com/ZMLjAbySN/\n\nᴺᵒ ᵖᶦᵈᵒ ᵈᶦⁿᵉʳᵒ⁻ ˢᵒˡᵒ ᶜᵒⁿ ᵗᵘ ᵃᵖᵒʸᵒ ˢᵒʸ ᶠᵉˡᶦᶻ  :³"
+global.TusRedesSociales = "[ > ] Canal de Youtube:\n- \n\n[ f ] Página de Facebook:\n- \n\n[Ꮄ] Tiktok:\n- \n\nᴺᵒ ᵖᶦᵈᵒ ᵈᶦⁿᵉʳᵒ⁻ ˢᵒˡᵒ ᶜᵒⁿ ᵗᵘ ᵃᵖᵒʸᵒ ˢᵒʸ ᶠᵉˡᶦᶻ  :³"
 global.UsLimitesCmd = '20'
 global.MinimoDeUsuarios = '2'
 
