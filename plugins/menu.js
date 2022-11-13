@@ -37,7 +37,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, command, isPrems }) =
     var pweb = await conn.profilePictureUrl(conn.user.jid).catch(_ => './multimedia/imagenes/avatar_contact.png')
     var textweb = ''
     }
-    const message = m.reply(`_Cargando menu..._ ${textweb}`)
+    const message = m.reply(`_Esperate perra ahí te mando mi menú 😈..._ ${textweb}`)
     await message
     /**try {
     let datcov = await fetch('https://latam-api.vercel.app/api/covid19?apikey=nekosmic&q=world');
